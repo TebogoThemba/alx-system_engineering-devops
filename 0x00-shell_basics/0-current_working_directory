@@ -1,2 +1,2 @@
 #!/bin/bash
-cd/alx-system_engineering-devops/0x00-shell_basics
+path=$DIR_PATH/$(dirname "${BASH_SOURCE:-$0}")
