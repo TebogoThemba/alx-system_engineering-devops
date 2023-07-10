@@ -1,2 +1,0 @@
-#!/bin/bash
-finf . -type d -not -name '.' | wc -1
